@@ -1,6 +1,8 @@
 # bootstrap_ResponsiveWebPage
 Simple Webpage on Tampa demonstrating Bootstrap
 
+![image](https://user-images.githubusercontent.com/82129736/118904761-85b3ab00-b8e8-11eb-9928-4ca42799bb48.png)
+
 ## Project Details
 
 The web page (a3.html) contains the following Bootstrap components (all responsive):
